@@ -1,27 +1,27 @@
-gierkionline.pl
-grajteraz.pl
-gameplanet.onet.pl
-gryfek.pl
-gry-online.pl
-gryonline.wp.pl
-gry.pl
-poki.pl
-gierkionline.pl
-wyspagier.pl
-gry.jeja.pl
-gry.pl
-onlygames.io
+0.0.0.0 gierkionline.pl
+0.0.0.0 grajteraz.pl
+0.0.0.0 gameplanet.onet.pl
+0.0.0.0 gryfek.pl
+0.0.0.0 gry-online.pl
+0.0.0.0 gryonline.wp.pl
+0.0.0.0 gry.pl
+0.0.0.0 poki.pl
+0.0.0.0 gierkionline.pl
+0.0.0.0 wyspagier.pl
+0.0.0.0 gry.jeja.pl
+0.0.0.0 gry.pl
+0.0.0.0 onlygames.io
 # www
-www.gierkionline.pl
-www.grajteraz.pl
-www.gameplanet.onet.pl
-www.gryfek.pl
-www.gry-online.pl
-www.gryonline.wp.pl
-www.gry.pl
-www.poki.pl
-www.gierkionline.pl
-www.wyspagier.pl
-www.gry.jeja.pl
-www.gry.pl
-www.onlygames.io
+0.0.0.0 www.gierkionline.pl
+0.0.0.0 www.grajteraz.pl
+0.0.0.0 www.gameplanet.onet.pl
+0.0.0.0 www.gryfek.pl
+0.0.0.0 www.gry-online.pl
+0.0.0.0 www.gryonline.wp.pl
+0.0.0.0 www.gry.pl
+0.0.0.0 www.poki.pl
+0.0.0.0 www.gierkionline.pl
+0.0.0.0 www.wyspagier.pl
+0.0.0.0 www.gry.jeja.pl
+0.0.0.0 www.gry.pl
+0.0.0.0 www.onlygames.io
