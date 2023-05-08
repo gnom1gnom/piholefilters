@@ -46,6 +46,9 @@
 0.0.0.0 xbox.com
 0.0.0.0 skribbl.io
 0.0.0.0 innersloth.com
+0.0.0.0 amongus-online.net
+0.0.0.0 amongus-online.net
+0.0.0.0 freebtc.vip
 
 # www
 0.0.0.0 www.gierkionline.pl
@@ -96,3 +99,6 @@
 0.0.0.0 www.xbox.com
 0.0.0.0 www.skribbl.io
 0.0.0.0 www.innersloth.com
+0.0.0.0 www.amongus-online.net
+0.0.0.0 www.amongus-online.net
+0.0.0.0 www.freebtc.vip
