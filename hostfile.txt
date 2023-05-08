@@ -49,6 +49,7 @@
 0.0.0.0 amongus-online.net
 0.0.0.0 amongusplay.online
 0.0.0.0 freebtc.vip
+0.0.0.0 garticphone.com
 
 # www
 0.0.0.0 www.gierkionline.pl
@@ -102,3 +103,4 @@
 0.0.0.0 www.amongus-online.net
 0.0.0.0 www.amongusplay.online
 0.0.0.0 www.freebtc.vip
+0.0.0.0 www.garticphone.com
