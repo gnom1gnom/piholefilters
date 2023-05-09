@@ -10,6 +10,10 @@
 0.0.0.0 www.3games1box.com
 0.0.0.0 m.3games1box.com
 0.0.0.0 pl.3games1box.com
+0.0.0.0 4chan.org
+0.0.0.0 www.4chan.org
+0.0.0.0 m.4chan.org
+0.0.0.0 pl.4chan.org
 0.0.0.0 5games1box.com
 0.0.0.0 www.5games1box.com
 0.0.0.0 m.5games1box.com
@@ -566,6 +570,10 @@
 0.0.0.0 www.gamespot.com
 0.0.0.0 m.gamespot.com
 0.0.0.0 pl.gamespot.com
+0.0.0.0 gamespot.com
+0.0.0.0 www.gamespot.com
+0.0.0.0 m.gamespot.com
+0.0.0.0 pl.gamespot.com
 0.0.0.0 gamesradar.com
 0.0.0.0 www.gamesradar.com
 0.0.0.0 m.gamesradar.com
@@ -578,6 +586,10 @@
 0.0.0.0 www.gamivo.com
 0.0.0.0 m.gamivo.com
 0.0.0.0 pl.gamivo.com
+0.0.0.0 garticphone.com
+0.0.0.0 www.garticphone.com
+0.0.0.0 m.garticphone.com
+0.0.0.0 pl.garticphone.com
 0.0.0.0 garticphone.com
 0.0.0.0 www.garticphone.com
 0.0.0.0 m.garticphone.com
@@ -890,6 +902,10 @@
 0.0.0.0 www.kurnik.pl
 0.0.0.0 m.kurnik.pl
 0.0.0.0 pl.kurnik.pl
+0.0.0.0 kwejk.pl
+0.0.0.0 www.kwejk.pl
+0.0.0.0 m.kwejk.pl
+0.0.0.0 pl.kwejk.pl
 0.0.0.0 l4d.com
 0.0.0.0 www.l4d.com
 0.0.0.0 m.l4d.com
@@ -962,6 +978,10 @@
 0.0.0.0 www.mariokarttour.com
 0.0.0.0 m.mariokarttour.com
 0.0.0.0 pl.mariokarttour.com
+0.0.0.0 maxior.pl
+0.0.0.0 www.maxior.pl
+0.0.0.0 m.maxior.pl
+0.0.0.0 pl.maxior.pl
 0.0.0.0 metacritic.com
 0.0.0.0 www.metacritic.com
 0.0.0.0 m.metacritic.com
