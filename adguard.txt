@@ -1,3 +1,5 @@
+||google.com/doodles
+||google.com/logos/doodles/*
 ||123gry-online.pl^
 ||2game.com^
 ||3games1box.com^
