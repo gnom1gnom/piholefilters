@@ -1,6 +1,7 @@
 ||123gry-online.pl^
 ||2game.com^
 ||3games1box.com^
+||4chan.org^
 ||5games1box.com^
 ||a10.com^
 ||achievementstats.com^
@@ -140,9 +141,11 @@
 ||gamesgames.com^
 ||gamesplanet.com^
 ||gamespot.com^
+||gamespot.com^
 ||gamesradar.com^
 ||gamingdragons.com^
 ||gamivo.com^
+||garticphone.com^
 ||garticphone.com^
 ||gaugepowered.com^
 ||getinsidetheorangebox.com^
@@ -221,6 +224,7 @@
 ||kogama.com^
 ||kubus.pl^
 ||kurnik.pl^
+||kwejk.pl^
 ||l4d.com^
 ||l4d2.com.cn^
 ||lazyguysbundle.com^
@@ -239,6 +243,7 @@
 ||lootcrate.com^
 ||lorenzostanco.com^
 ||mariokarttour.com^
+||maxior.pl^
 ||metacritic.com^
 ||metagamerscore.com^
 ||micromania.fr^
