@@ -74,10 +74,6 @@
 0.0.0.0 www.aperturescience.com
 0.0.0.0 m.aperturescience.com
 0.0.0.0 pl.aperturescience.com
-0.0.0.0 apple.com
-0.0.0.0 www.apple.com
-0.0.0.0 m.apple.com
-0.0.0.0 pl.apple.com
 0.0.0.0 arkadium.com
 0.0.0.0 www.arkadium.com
 0.0.0.0 m.arkadium.com
