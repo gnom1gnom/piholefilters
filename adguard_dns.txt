@@ -23,6 +23,7 @@
 ||aperturelaboratories.com^
 ||aperturelabratories.com^
 ||aperturescience.com^
+||aquapark.io^
 ||arcadespot.com^
 ||arkadium.com^
 ||armorgames.com^
@@ -127,6 +128,7 @@
 ||eurogamer.net^
 ||exophase.com^
 ||explodingkittens.com^
+||famobi.com^
 ||fanatical.com^
 ||files.teamspeak-services.com^
 ||finalfantasyxiv.com^
@@ -165,8 +167,8 @@
 ||gameplanet.onet.pl^
 ||gamerlifemovie.com^
 ||gamerlifethemovie.com^
-||gamersfirst.com^
 ||gamersfirst.com.cdn.cloudflare.net^
+||gamersfirst.com^
 ||gamersgate.com^
 ||gamesave-manager.com^
 ||gamesbarq.com^
@@ -278,6 +280,7 @@
 ||joy.land^
 ||juegos.com^
 ||justarchi.net^
+||kacle.com^
 ||keeptrackofmygames.com^
 ||keygames.com^
 ||keyofgames.com^
@@ -338,11 +341,12 @@
 ||myemulator.online^
 ||mysteamgauge.com^
 ||myteamspeak.com^
+||najox.com^
 ||ncsoft.com^
 ||nerdchan.net^
 ||nick.com^
-||nintendo.com^
 ||nintendo.com.au^
+||nintendo.com^
 ||nintendo.net^
 ||nintendo.pl^
 ||nintendolife.com^
@@ -362,6 +366,7 @@
 ||overwatchleague.com^
 ||pacogames.com^
 ||paper-io.com^
+||paperio.site^
 ||pbskids.org^
 ||pcgameit.com^
 ||pcgamer.com^
@@ -375,10 +380,12 @@
 ||playgwent.com^
 ||playhearthstone.com^
 ||playinjector.com^
+||playjolt.com^
 ||plays.org^
 ||playstation.com^
 ||playtracker.net^
 ||plemiona.pl^
+||plonga.com^
 ||pogo.com^
 ||pokemon.com^
 ||pokemongolive.com^
@@ -396,6 +403,7 @@
 ||poweredbysteam.net^
 ||pressureforsteam.com^
 ||primarygames.com^
+||prinxy.app^
 ||prodigygame.com^
 ||psmedia.playstation.com^
 ||psnprofile.com^
@@ -589,7 +597,9 @@
 ||xboxygen.com^
 ||xbxparadise.fr^
 ||y8.com^
+||yad.com^
 ||yandex.com^
+||yepi.com^
 ||yiv.com^
 ||zylom.com^
 ||zynga.com^
