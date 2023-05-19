@@ -8,6 +8,7 @@
 ||90kids.com^
 ||a10.com^
 ||abcya.com^
+||abduct.io^
 ||achievementstats.com^
 ||addictinggames.com^
 ||agame.com^
@@ -25,6 +26,7 @@
 ||aperturescience.com^
 ||aquapark.io^
 ||arcadespot.com^
+||arcaneplaza.com^
 ||arkadium.com^
 ||armorgames.com^
 ||as32590.net^
@@ -38,6 +40,7 @@
 ||bgames.com^
 ||bladeandsoul.com^
 ||blizzard.com^
+||blockstarplanet.com^
 ||blog.fr.playstation.com^
 ||boardgamearena.com^
 ||bohgames.com^
@@ -167,8 +170,8 @@
 ||gameplanet.onet.pl^
 ||gamerlifemovie.com^
 ||gamerlifethemovie.com^
-||gamersfirst.com.cdn.cloudflare.net^
 ||gamersfirst.com^
+||gamersfirst.com.cdn.cloudflare.net^
 ||gamersgate.com^
 ||gamesave-manager.com^
 ||gamesbarq.com^
@@ -187,6 +190,7 @@
 ||garticphone.com^
 ||gaugepowered.com^
 ||gdbrowser.com^
+||gebavi.fr^
 ||geometry-dash.net^
 ||geometrydash-download.com^
 ||geometrydash-free.com^
@@ -201,6 +205,8 @@
 ||gierki-online.pl^
 ||gierkionline.pl^
 ||girlgames.com^
+||gleamplay.com^
+||glimmergaming.com^
 ||goclecd.fr^
 ||gog.com^
 ||gogalaxy.com^
@@ -263,6 +269,7 @@
 ||howlongtobeat.com^
 ||howlongtobeatsteam.com^
 ||hrkgame.com^
+||http:sensorika.net^
 ||humblebundle.com^
 ||ign.com^
 ||igroutka.ru^
@@ -336,6 +343,9 @@
 ||mmorpg.org.pl^
 ||moddota.com^
 ||modexpo.com^
+||moviestarplanet.com^
+||moviestarplanet.pl^
+||moviestarplanet2.com^
 ||my-fantasy.net^
 ||myabandonware.com^
 ||myemulator.online^
@@ -345,13 +355,14 @@
 ||ncsoft.com^
 ||nerdchan.net^
 ||nick.com^
-||nintendo.com.au^
 ||nintendo.com^
+||nintendo.com.au^
 ||nintendo.net^
 ||nintendo.pl^
 ||nintendolife.com^
 ||numuki.com^
 ||nuuvem.com^
+||nyckelspel.se^
 ||octordle.com^
 ||oldpcgaming.net^
 ||online-gold.de^
@@ -364,6 +375,7 @@
 ||origin.com^
 ||otakumaker.com^
 ||overwatchleague.com^
+||oyuntc.com^
 ||pacogames.com^
 ||paper-io.com^
 ||paperio.site^
@@ -601,5 +613,6 @@
 ||yandex.com^
 ||yepi.com^
 ||yiv.com^
+||zorbify.com^
 ||zylom.com^
 ||zynga.com^
