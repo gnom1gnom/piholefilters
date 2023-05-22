@@ -21,6 +21,7 @@
 ||amongus-online.net^
 ||amongusplay.online^
 ||analyzedota.com^
+||androidlista.pl^
 ||aperturelaboratories.com^
 ||aperturelabratories.com^
 ||aperturescience.com^
@@ -146,6 +147,7 @@
 ||freegames.net^
 ||freegames.org^
 ||freegames66.com^
+||freegamesmax.com^
 ||freeonlinegames.com^
 ||freetogame.com^
 ||freetoplaythemovie.com^
@@ -163,6 +165,7 @@
 ||gamedeed.com^
 ||gamedesire.com^
 ||gamedex.net^
+||gamedile.pl^
 ||gameforge.com^
 ||gamegauntlets.com^
 ||gameladen.com^
@@ -178,6 +181,7 @@
 ||gamesdeal.com^
 ||gamesfreak.net^
 ||gamesgames.com^
+||gamesparkles.com^
 ||gamesplanet.com^
 ||gamespot.com^
 ||gamesradar.com^
@@ -191,12 +195,14 @@
 ||gaugepowered.com^
 ||gdbrowser.com^
 ||gebavi.fr^
+||geometry-dash.io^
 ||geometry-dash.net^
 ||geometrydash-download.com^
 ||geometrydash-free.com^
 ||geometrydash.io^
 ||geometrydash.net^
 ||geometrydashfree.com^
+||geometrydashlite.io^
 ||geometrydashsubzero.com^
 ||geometrydashzone.com^
 ||getinsidetheorangebox.com^
@@ -224,6 +230,7 @@
 ||gry.pl^
 ||gryfek.pl^
 ||gryfriv.info^
+||gryfriv5.com^
 ||grymini.pl^
 ||gryonline.wp.pl^
 ||half-life.com^
@@ -295,6 +302,7 @@
 ||king.com^
 ||kinguin.net^
 ||kiz10.com^
+||kizi-mizi.pl^
 ||kizi.com^
 ||klikarnia.pl^
 ||kogama.com^
@@ -305,6 +313,7 @@
 ||l4d.com^
 ||l4d2.com.cn^
 ||lagged.com^
+||lagged.pl^
 ||lazyguysbundle.com^
 ||leagueoflegends.com^
 ||learningwithportals.com^
@@ -436,11 +445,13 @@
 ||runescape.com^
 ||runningfred.info^
 ||s.team^
+||samequizy.pl^
 ||scdkey.com^
 ||seaofthieves.com^
 ||secure.eu.playstation.com^
 ||servc.eu^
 ||sesamestreet.org^
+||sgames.org^
 ||sgtools.info^
 ||shellshock.io^
 ||shockwave.com^
@@ -585,11 +596,13 @@
 ||valvestore.net^
 ||valvesucks.com^
 ||vampiresurvivors.co^
+||vkplay.ru^
 ||vodo.net^
 ||voidu.com^
 ||vseigru.net^
 ||wargaming.net^
 ||watchanimeattheoffice.com^
+||waznygry.pl^
 ||webliero.com^
 ||wepc.com^
 ||whatistheorangebox.com^
@@ -614,5 +627,6 @@
 ||yepi.com^
 ||yiv.com^
 ||zorbify.com^
+||zulu-gry.pl^
 ||zylom.com^
 ||zynga.com^
