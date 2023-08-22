@@ -108,6 +108,7 @@
 ||dayofdefeatmod.com^
 ||dayofdefeattv.com^
 ||deathmatchclassic.com^
+||dinorunner.com^
 ||disney.com^
 ||dlcompare.fr^
 ||dlgamer.com^
@@ -154,6 +155,7 @@
 ||friv.com^
 ||friv5online.com^
 ||frivold.menu^
+||frvr.com^
 ||funbrain.com^
 ||g2a.com^
 ||g2k.co^
@@ -219,6 +221,7 @@
 ||gogetgame.com^
 ||gogy.com^
 ||gombis.pl^
+||goobix.com^
 ||gql.twitch.tv^
 ||grajteraz.pl^
 ||greenlightupdates.com^
@@ -263,6 +266,7 @@
 ||halflifethemovie.com^
 ||happyclicks.net^
 ||happywheels2.io^
+||hexxagon.com^
 ||hide-io.org^
 ||hide.me^
 ||hihoy.com^
@@ -307,6 +311,7 @@
 ||klikarnia.pl^
 ||kogama.com^
 ||kongregate.com^
+||krunker.io^
 ||kubus.pl^
 ||kurnik.pl^
 ||kwejk.pl^
