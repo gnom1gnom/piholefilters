@@ -438,6 +438,10 @@
 0.0.0.0 www.deathmatchclassic.com
 0.0.0.0 m.deathmatchclassic.com
 0.0.0.0 pl.deathmatchclassic.com
+0.0.0.0 dinorunner.com
+0.0.0.0 www.dinorunner.com
+0.0.0.0 m.dinorunner.com
+0.0.0.0 pl.dinorunner.com
 0.0.0.0 disney.com
 0.0.0.0 www.disney.com
 0.0.0.0 m.disney.com
@@ -622,6 +626,10 @@
 0.0.0.0 www.frivold.menu
 0.0.0.0 m.frivold.menu
 0.0.0.0 pl.frivold.menu
+0.0.0.0 frvr.com
+0.0.0.0 www.frvr.com
+0.0.0.0 m.frvr.com
+0.0.0.0 pl.frvr.com
 0.0.0.0 funbrain.com
 0.0.0.0 www.funbrain.com
 0.0.0.0 m.funbrain.com
@@ -882,6 +890,10 @@
 0.0.0.0 www.gombis.pl
 0.0.0.0 m.gombis.pl
 0.0.0.0 pl.gombis.pl
+0.0.0.0 goobix.com
+0.0.0.0 www.goobix.com
+0.0.0.0 m.goobix.com
+0.0.0.0 pl.goobix.com
 0.0.0.0 gql.twitch.tv
 0.0.0.0 www.gql.twitch.tv
 0.0.0.0 m.gql.twitch.tv
@@ -1058,6 +1070,10 @@
 0.0.0.0 www.happywheels2.io
 0.0.0.0 m.happywheels2.io
 0.0.0.0 pl.happywheels2.io
+0.0.0.0 hexxagon.com
+0.0.0.0 www.hexxagon.com
+0.0.0.0 m.hexxagon.com
+0.0.0.0 pl.hexxagon.com
 0.0.0.0 hide-io.org
 0.0.0.0 www.hide-io.org
 0.0.0.0 m.hide-io.org
@@ -1234,6 +1250,10 @@
 0.0.0.0 www.kongregate.com
 0.0.0.0 m.kongregate.com
 0.0.0.0 pl.kongregate.com
+0.0.0.0 krunker.io
+0.0.0.0 www.krunker.io
+0.0.0.0 m.krunker.io
+0.0.0.0 pl.krunker.io
 0.0.0.0 kubus.pl
 0.0.0.0 www.kubus.pl
 0.0.0.0 m.kubus.pl
